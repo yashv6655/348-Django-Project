@@ -8,9 +8,9 @@ This is a small online ecommerse website built using Django.
 
 * Allows users to sign up and log in
 
-* Edit their posts
+* Allows users to edit/delete their posts
 
-* View available items
+* View available items posted by other users
 
 * SQLite for backend
 
