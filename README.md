@@ -14,6 +14,8 @@ This is a small online ecommerse website built using Django.
 
 * SQLite for backend
 
+* Fast query processing using SQLite indexing
+
     
 Simply apply the migrations:
 
