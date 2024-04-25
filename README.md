@@ -1,5 +1,3 @@
-{% if False %}
-
 # Introduction
 
 This is a small online ecommerse website built using Django.
